@@ -1,0 +1,24 @@
+.App {
+background-color: rgb(230, 230, 230);
+height: 100vh;
+width: 100vw;
+text-align: center;
+background-image: url('./assets/background.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.Search {
+font-size: 30px;
+padding-top: 32vh;
+width: 50%;
+margin: auto;
+display: flex;
+flex-direction: column;
+align-items: center;
+min-width: 200px;
+margin: 0 auto;
+max-width: 600px; /* Adjust this as needed */
+position: relative;
+max-width: 600px;
+}
